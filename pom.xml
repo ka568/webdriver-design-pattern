@@ -22,6 +22,16 @@
             <artifactId>testng</artifactId>
             <version>7.1.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.araqnid.kotlin.assert-that</groupId>
+            <artifactId>assert-that</artifactId>
+            <version>0.1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.araqnid.kotlin.assert-that</groupId>
+            <artifactId>assert-that-metadata</artifactId>
+            <version>0.1.1</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>

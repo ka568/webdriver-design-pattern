@@ -44,7 +44,7 @@ public class GoogleTest extends BaseTest {
         googleResultPage.getNavigationBar().goToImages();
 
         System.out.println(
-                googleResultPage.getResultStat().getStat();
+                googleResultPage.getResultStat().getStat()
         );
 
     }
